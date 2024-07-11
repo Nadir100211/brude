@@ -1,0 +1,41 @@
+.a{
+    width: 100vw;
+    height: 10vh;
+    position: fixed;
+    display:flex ;
+    align-items: center;
+    background-color: white;
+}
+.v{
+    margin: 40px;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    color: black ;
+}
+.b{
+    width: 100vw;
+    height: 70vh;
+    background-color: rgb(0, 125, 209);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.parent{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+#e{
+    background-color: orange;  
+}
+.k{
+    font-size: 40px;
+}
+img{
+    width: 500px;
+}
+.o{
+    text-align: center;
+}
